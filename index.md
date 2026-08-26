@@ -1,27 +1,11 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Eric Pacheco
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
-
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+&emsp;I graduated from Texas A&M with a degree in Biomedical Engineering and now work as a Field Service Engineer servicing In vitro diagnostic equipment. Off work, I love to design in CAD, take photos, build keyboards, journal, and hike.  
 <br>
-Here's a new paragraph for you.  
-
-## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
-
+&emsp;I recommend browsing through the categories page to see some of my hobbies and interests. Alternatively, the posts page will show a list of all content I have uploaded. Thank you for visiting my site.
 ## Contact
 Email me, [ericpacheco829@gmail.com](ericpacheco829@gmail.com).
