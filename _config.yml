@@ -1,7 +1,8 @@
 # Site Specific Configuration
 name: Eric Pacheco
 description: About
-url: https://example.com
+url: https://ericpacheco.net
+baseurl: ""
 author: tajacks
 timezone: America/Toronto
 timezone_short: ET
