@@ -59,10 +59,14 @@ code {
   vertical-align: text-bottom;
 }
 
-/* 06 Primary color */
+/* 06 Primary color and no underline */
 
 a {
   color: #a0819d;
+}
+
+a {
+  text-decoration: none;
 }
 
 /* 07 Secondary colors */
