@@ -1,12 +1,22 @@
 .header {
-  padding-top: 35px
+  padding-top: 35px;
 }
 
 .header nav {
-  padding-top: 10px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  display: flex;
 }
 
 .header nav a {
-  padding-right: 3px;
+  flex: 1;
+  text-align: center;
+  border-right: 1px solid;
+}
+
+.header nav a:last-child {
+  border-right: none;
 }
