@@ -12,7 +12,7 @@ categories: Photography
   <figcaption>Pentax Spotmatic II</figcaption>
 </figure>
 
-&emsp;This camera utilizes an m42 mount, allowing for compatability with a wide variety of lenses. Below, I've included an image with each lens I own for this camera.
+&emsp;This camera utilizes an m42 mount, allowing for compatibility with a wide variety of lenses. Below, I've included an image with each lens I own for this camera.
 
 <figure>
   <img src="/assets/images/PentaxSpotmaticII_2.jpg" alt="Description of the photo">
@@ -35,4 +35,4 @@ categories: Photography
 
 &emsp;This is the first lens I've actually purchased for this camera, as I saw it at a local camera store on a shelf for $60. The Super-Multi-Coated Takumar 135mm f3.5 was not a very popular lens in the series with its rather slow aperture. Fortunately, it still has great sharpness when stopped down a bit and great colors just like the other 50mm I have. I don't use telephotos too much as they are pretty limited in use compared to 50mm and 28mm focal lengths. I still try to bring it every once and a while when on hikes just to mix things up.
 
-&emsp;I really enjoy this camera as it has a great ritual to shooting. it taught me to worry less about how the final picture looks and just enjoy the time shooting the camera itself. There is also something so special about using the same camera that's been in my family for many years. My father told me stories about how he took this camera to college in order to take a photography class, taking portraits of his fraternity brothers. My grandpa used this camera in trips to Spain and Bolivia, in his work as an architect at IBM. I feel honored to continue cementing this camera as a heirloom in the Pacheco family.
+&emsp;I really enjoy this camera as it has a great ritual to shooting. It taught me to worry less about how the final picture looks and just enjoy the time shooting the camera itself. There is also something so special about using the same camera that's been in my family for many years. My father told me stories about how he took this camera to college in order to take a photography class, taking portraits of his fraternity brothers. My grandpa used this camera in trips to Spain and Bolivia, in his work as an architect at IBM. I feel honored to continue cementing this camera as a heirloom in the Pacheco family.
